@@ -31,6 +31,11 @@ codex mcp add --url https://mcp.thedrive.ai/mcp thedriveai
 gemini extensions install https://github.com/thedriveAI/mcp
 ```
 
+**Devin (Desktop and CLI)**
+```bash
+devin plugins install thedriveAI/mcp
+```
+
 **VS Code**
 ```bash
 code --add-mcp '{"name":"thedriveai","type":"http","url":"https://mcp.thedrive.ai/mcp"}'
