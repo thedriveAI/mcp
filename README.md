@@ -68,6 +68,7 @@ The first call opens a browser to sign in to The Drive AI (Google, Microsoft, Gi
 
 - `gemini-extension.json` for Gemini CLI
 - `.claude-plugin/` for Claude Code plugins
+- `.cursor-plugin/` and `mcp.json` for Cursor
 - `llms-install.md` for agents installing this server
 - Skills for agents: [thedriveAI/skills](https://github.com/thedriveAI/skills)
 
