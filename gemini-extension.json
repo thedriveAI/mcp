@@ -1,0 +1,10 @@
+{
+  "name": "thedriveai",
+  "version": "2.1.0",
+  "description": "Find, read and reorganize files across Google Drive, OneDrive, SharePoint and Dropbox, with undo.",
+  "mcpServers": {
+    "thedriveai": {
+      "httpUrl": "https://mcp.thedrive.ai/mcp"
+    }
+  }
+}

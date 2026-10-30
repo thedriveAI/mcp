@@ -1,0 +1,10 @@
+{
+  "name": "thedriveai",
+  "version": "2.1.0",
+  "description": "Find, read and reorganize files across Google Drive, OneDrive, SharePoint and Dropbox, with undo.",
+  "author": { "name": "The Drive AI", "email": "contact@thedrive.ai", "url": "https://thedrive.ai" },
+  "homepage": "https://thedrive.ai/mcp",
+  "repository": "https://github.com/thedriveAI/mcp",
+  "license": "MIT",
+  "keywords": ["files", "documents", "google-drive", "onedrive", "sharepoint", "dropbox"]
+}
