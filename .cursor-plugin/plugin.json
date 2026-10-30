@@ -10,5 +10,14 @@
   "homepage": "https://thedrive.ai/mcp",
   "repository": "https://github.com/thedriveAI/mcp",
   "license": "MIT",
-  "keywords": ["mcp", "files", "documents", "google-drive", "onedrive", "sharepoint", "dropbox"]
+  "keywords": [
+    "mcp",
+    "files",
+    "documents",
+    "google-drive",
+    "onedrive",
+    "sharepoint",
+    "dropbox"
+  ],
+  "logo": "assets/logo.png"
 }
